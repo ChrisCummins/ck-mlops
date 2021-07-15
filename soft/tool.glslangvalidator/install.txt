@@ -1,3 +1,0 @@
-You can download OpenGL validator from
-
-* http://glsl-validate.software.informer.com/1.9/

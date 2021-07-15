@@ -1,5 +1,0 @@
-Download and install package from this website:
-
-* http://windows.php.net/download
-
- 

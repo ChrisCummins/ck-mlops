@@ -1,2 +1,0 @@
-You can download adb as a part of Android SDK:
-* https://developer.android.com/studio/index.html

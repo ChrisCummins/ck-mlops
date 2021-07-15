@@ -1,4 +1,0 @@
-On UBUNTU you can install texinfo via
-
-$ sudo apt-get install texinfo
-

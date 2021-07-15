@@ -1,4 +1,0 @@
-This is a PPCG compiler from the EU CARP project.
-You can get it via CK:
-
-* ck pull repo:reproduce-carp-project

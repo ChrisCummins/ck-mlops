@@ -1,4 +1,0 @@
-You can download and install latest (or required) 
-LLVM compiler for your platform here:
-
-* http://llvm.org/releases

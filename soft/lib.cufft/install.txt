@@ -1,2 +1,0 @@
-You can download and install latest (or required) cuFFT from Nvidia website:
-* https://developer.nvidia.com/cufft

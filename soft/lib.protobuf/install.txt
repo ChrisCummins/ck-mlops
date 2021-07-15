@@ -1,2 +1,0 @@
-You can download Google's protobuf library from 
-* https://github.com/google/protobuf

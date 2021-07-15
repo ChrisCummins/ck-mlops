@@ -1,3 +1,0 @@
-You can download and install latest (or required) Orange from here: 
-
-* http://orange.biolab.si/download

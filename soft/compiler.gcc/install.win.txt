@@ -1,3 +1,0 @@
-Get latest MinGW version of GCC here:
-
-* https://sourceforge.net/projects/mingw-w64

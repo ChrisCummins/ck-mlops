@@ -1,3 +1,0 @@
-You can download LAPACK library from
-
-* http://www.netlib.org/lapack

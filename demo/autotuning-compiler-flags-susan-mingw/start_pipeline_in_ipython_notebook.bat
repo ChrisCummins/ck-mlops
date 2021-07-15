@@ -1,2 +1,0 @@
-copy start_pipeline_in_ipython_notebook.ipynb.template start_pipeline_in_ipython_notebook.ipynb
-start ipython notebook start_pipeline_in_ipython_notebook.ipynb

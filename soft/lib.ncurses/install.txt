@@ -1,3 +1,0 @@
-You can download NCurses library from
-
-* https://ftp.gnu.org/pub/gnu/ncurses

@@ -1,3 +1,0 @@
-You can download MPFR library from
-
-* http://www.mpfr.org

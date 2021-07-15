@@ -1,3 +1,0 @@
-You can download MPC library from
-
-* http://www.multiprecision.org

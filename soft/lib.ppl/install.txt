@@ -1,4 +1,0 @@
-You can download PPL library from
-
-* http://bugseng.com/products/ppl
-

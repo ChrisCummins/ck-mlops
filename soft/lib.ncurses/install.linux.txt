@@ -1,5 +1,0 @@
-On UBUNTU you can install libncurses via
-
-$ sudo apt-get install libncurses-dev
-
-

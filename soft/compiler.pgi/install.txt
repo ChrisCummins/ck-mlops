@@ -1,3 +1,0 @@
-This is a collection of PGI compilers:
-
-* http://www.pgroup.com/

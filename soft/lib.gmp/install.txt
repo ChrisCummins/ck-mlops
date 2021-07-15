@@ -1,3 +1,0 @@
-You can download GMP library from
-
-* https://gmplib.org

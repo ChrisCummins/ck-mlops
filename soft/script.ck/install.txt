@@ -1,1 +1,0 @@
-Auxilary and outdated demo scripts for CK (to compile and run programs, etc).

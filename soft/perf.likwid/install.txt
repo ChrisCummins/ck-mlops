@@ -1,4 +1,0 @@
-You can download latest liwid tool from
-
-* https://github.com/RRZE-HPC/likwid
-

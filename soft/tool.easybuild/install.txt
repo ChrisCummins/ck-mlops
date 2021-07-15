@@ -1,2 +1,0 @@
-Download and install package from https://easybuild.readthedocs.io/en/latest/Installation.html#installing-easybuild
-

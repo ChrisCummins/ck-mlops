@@ -1,3 +1,0 @@
-You can download latest ANTLR tool from
-
-* http://www.antlr.org

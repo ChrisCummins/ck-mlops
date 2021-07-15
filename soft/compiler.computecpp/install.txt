@@ -1,4 +1,0 @@
-You can download and install latest (or required) 
-ComputeCPP compiler from CodePlay here:
-
-* https://www.codeplay.com/products/computesuite/computecpp

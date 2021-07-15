@@ -1,5 +1,0 @@
-On UBUNTU you can install MPC via
-
-$ sudo apt-get install libmpc-dev
-
-

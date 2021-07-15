@@ -1,3 +1,0 @@
-You can download and install latest (or required) CUDA for your platform here:
-
-* https://developer.nvidia.com/cuda-downloads

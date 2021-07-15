@@ -1,7 +1,0 @@
-{
-  "sub_scripts": {
-    "convert_timers_to_ck_format": {
-      "cmd": "python $#ck_path#$convert_timers_to_ck_format.py"
-    }
-  }
-}

@@ -1,3 +1,0 @@
-You can download and install CLBLAS library from GitHub:
-
-* https://github.com/clMathLibraries/clBLAS/

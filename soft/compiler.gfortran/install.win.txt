@@ -1,3 +1,0 @@
-Get latest MinGW version with gfortran here:
-
-* https://sourceforge.net/projects/mingw-w64

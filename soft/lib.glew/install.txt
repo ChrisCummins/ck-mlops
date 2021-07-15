@@ -1,4 +1,0 @@
-You can download and install GLEW library from
-
-* http://glew.sourceforge.net
-

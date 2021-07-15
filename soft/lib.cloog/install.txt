@@ -1,3 +1,0 @@
-You can download Chunky Loop Generator tool (CLOOG) from here:
-
-* http://www.cloog.org
